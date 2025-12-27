@@ -6,7 +6,7 @@ const colors = {
   ACCENT_COLOR: "text-black",
   PRIMARY_BLUE: "text-cyan-500",
   BORDER_COLOR: "border-gray-200",
-  BORDER_STYLE: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24",
+  BORDER_STYLE: "max-w-[95%] md:max-w[90%] mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24",
 };
 
 const steps = [
