@@ -59,13 +59,13 @@ const FooterSection = () => {
         <div className="relative pt-8 flex flex-col items-center justify-center overflow-hidden">
           <div className="text-center pointer-events-none opacity-5">
             {/* Branding */}
-            <span className="text-9xl sm:text-[14rem] md:text-[20rem] font-extrabold  text-white tracking-wide bebas-font leading-none">
-              CYBERX
+            <span className="text-9xl sm:text-[14rem] md:text-[10rem] font-extrabold  text-white tracking-wide bebas-font leading-none">
+              CCTECH  
             </span>
+            <h5 className="py-5">solutions</h5>
           </div>
           <p className="text-xs text-gray-500 mt-4 absolute bottom-0 left-1/2 transform -translate-x-1/2 w-full text-center">
-            &copy; {new Date().getFullYear()} CYBERX Corp. All Rights Reserved.
-            Architecture v2.4.
+            &copy; {new Date().getFullYear()} CCTECH solutions company. All rights reserved
           </p>
         </div>
       </div>

@@ -13,7 +13,7 @@ function Header() {
   },[])
 
   return (
-    <header className={`sticky top-0 z-9 w-full ${colors.BG_COLOR} py-4 border-b ${colors.BORDER_COLOR}`}>
+    <header className={` sticky top-0 z-99999 w-full ${colors.BG_COLOR} py-4 border-b ${colors.BORDER_COLOR}`}>
 
       <div className="max-w-[95%] md:max-w[90%] mx-auto px-4 sm:px-6 lg:px-8">
 
